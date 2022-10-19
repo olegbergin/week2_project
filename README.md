@@ -8,7 +8,7 @@
 
 ***
 
-<p align="center"><img src="./Screenshot .png" width="300" /></p>
+<p align="center"><img src="./portfolio_image.png" width="300" /></p>
 
 
 
